@@ -1,5 +1,7 @@
 # Jekyll Theme based on Startbootstrap Agency
 
+jekyll-theme-voiladt is based on jekyll-theme-startbootstrap-agency
+
 jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - Agency. You can see the [live demo](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/).
 
 "Agency is a stylish, one page Bootstrap theme for agencies and small businesses. The design of Agency is based off of the Golden PSD Theme by Mathavan Jaya. You can download the PSD verison of this theme at FreebiesXpress.com."
@@ -38,13 +40,13 @@ https://github.com/y7kim/agency-jekyll-theme has not been updated for more that 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "jekyll-theme-startbootstrap-agency"
+gem "jekyll-theme-voiladt"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: jekyll-theme-startbootstrap-agency
+theme: jekyll-theme-voiladt
 ```
 
 And then execute:
@@ -53,7 +55,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jekyll-theme-startbootstrap-agency
+    $ gem install jekyll-theme-voiladt
 
 ## Usage
 
